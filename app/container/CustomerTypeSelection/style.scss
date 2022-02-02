@@ -1,0 +1,27 @@
+// Styles for Customer Type Selection
+$core-styles-in-project: true;
+
+@import '~@vfde-brix/styles/dist/scss/main.scss';
+@import '~@vfde-brix/button/dist/styles.css';
+@import '~@vfde-brix/button-tiles/dist/styles.css';
+@import '~@vfde-brix/accordion/dist/styles.css';
+@import '~@vfde-brix/image-text/dist/styles.css';
+
+#customer-type-app {
+    text-align: center;
+}
+
+#connection-question_type {
+    border-top: 1px solid #ccc;
+    margin-top: $space-200;
+    padding-top: $space-200;
+}
+
+.brix-headline {
+    margin-bottom: $space-200;
+}
+
+.connection-type-accordion {
+    margin-top: $space-200;
+    text-align: left;
+}

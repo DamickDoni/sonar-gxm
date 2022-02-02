@@ -1,0 +1,87 @@
+// tslint:disable: completed-docs
+export const NAMESPACE = 'CUSTOMER_TYPE_SELECTION';
+
+/**
+ * Export SHOW_QUESTION LOCATION
+ */
+export const SHOW_QUESTION_CONNECTION_LOCATION = `${NAMESPACE}/SHOW_QUESTION_CONNECTION_LOCATION`;
+
+/**
+ * Export SHOW_HOTLINE_CONTENT
+ */
+export const SHOW_HOTLINE_CONTENT = `${NAMESPACE}/SHOW_HOTLINE_CONTENT`;
+
+/**
+ * Export SHOW_LOGIN_CONTENT
+ */
+export const SHOW_LOGIN_CONTENT = `${NAMESPACE}/SHOW_LOGIN_CONTENT`;
+
+/**
+ * Export ACCORDION_OPENED
+ */
+export const ACCORDION_TOGGLE = `${NAMESPACE}/ACCORDION_TOGGLE`;
+
+/**
+ * Export SAVE_CLICK_VALUES
+ */
+export const SAVE_CLICK_VALUES = `${NAMESPACE}/SAVE_CLICK_VALUES`;
+
+/**
+ * Export INIT_CUSTOMERTYPE_OVERLAY
+ */
+export const INIT_CUSTOMERTYPE_OVERLAY = `${NAMESPACE}/INIT_CUSTOMERTYPE_OVERLAY`;
+
+/**
+ * Export TRACK_CUSTOMER_TYPE
+ */
+export const TRACK_CUSTOMER_TYPE = `${NAMESPACE}/TRACK_CUSTOMER_TYPE`;
+
+/**
+ * Export TRACK_CLICK_BUTTONTILE
+ */
+ export const TRACK_CLICK_BUTTONTILE = `${NAMESPACE}/TRACK_CLICK_BUTTONTILE`;
+
+/**
+ * Export TRACK_OPEN_ACCORDION
+ */
+export const TRACK_OPEN_ACCORDION = `${NAMESPACE}/TRACK_OPEN_ACCORDION`;
+
+/**
+ * Export TRACK_INITIAL_PAGE_VIEW
+ */
+export const TRACK_AVAILABILITY_CHECK = `${NAMESPACE}/TRACK_AVAILABILITY_CHECK`;
+
+/**
+ * Export INIT_TRACKING
+ */
+export const INIT_TRACKING = `${NAMESPACE}/INIT_TRACKING`;
+
+/**
+ * Export TOGGLE_I_DONT_KNOW_BUTTON_TILE
+ */
+ export const TOGGLE_I_DONT_KNOW_BUTTON_TILE = `${NAMESPACE}/TOGGLE_I_DONT_KNOW_BUTTON_TILE`;
+
+/**
+ * Export YES_ITEM_ID
+ */
+export const YES_ITEM_ID = `brix-button-tiles-item-776336-776341`;
+
+/**
+ * Export NO_ITEM_ID
+ */
+export const NO_ITEM_ID = `brix-button-tiles-item-776336-776339`;
+
+/**
+ * Export TV_ITEM_ID
+ */
+export const TV_ITEM_ID = `brix-button-tiles-item-776351-776353`;
+
+/**
+ * Export PHONE_ITEM_ID
+ */
+export const PHONE_ITEM_ID = `brix-button-tiles-item-776351-776352`;
+
+/**
+ * Export PHONE_ITEM_ID
+ */
+export const DONT_KNOW_ITEM_ID = `brix-button-tiles-item-776351-776356`;
