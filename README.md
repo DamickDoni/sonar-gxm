@@ -1,2 +1,1 @@
 # sonar-gxm
-1
